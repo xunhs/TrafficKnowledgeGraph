@@ -1,0 +1,222 @@
+countryId,country,iso2,iso3,regionid,region
+1,Afghanistan,AF,AFG,10177,Asia / Pacific
+2,Albania,AL,ALB,10120,Europe
+3,Algeria,DZ,DZA,10238,Africa / Middle East
+5,Andorra,AD,AND,10120,Europe
+6,Angola,AO,AGO,10238,Africa / Middle East
+7,Anguilla,AI,AIA,10360,Latin America and Caribbean
+8,Antarctica,AQ,ATA,10120,Europe
+9,Antigua & Barbuda,AG,ATG,10360,Latin America and Caribbean
+10,Argentina,AR,ARG,10360,Latin America and Caribbean
+11,Armenia,AM,ARM,10177,Asia / Pacific
+12,Aruba,AW,ABW,10360,Latin America and Caribbean
+13,Australia,AU,AUS,10177,Asia / Pacific
+14,Austria,AT,AUT,10120,Europe
+15,Azerbaijan,AZ,AZE,10177,Asia / Pacific
+16,Bahamas,BS,BHS,10360,Latin America and Caribbean
+17,Bahrain,BH,BHR,10238,Africa / Middle East
+18,Bangladesh,BD,BGD,10177,Asia / Pacific
+19,Barbados,BB,BRB,10360,Latin America and Caribbean
+20,Belarus,BY,BLR,10120,Europe
+21,Belgium,BE,BEL,10120,Europe
+22,Belize,BZ,BLZ,10360,Latin America and Caribbean
+23,Benin,BJ,BEN,10238,Africa / Middle East
+24,Bermuda,BM,BMU,10360,Latin America and Caribbean
+25,Bhutan,BT,BTN,10177,Asia / Pacific
+26,Bolivia,BO,BOL,10360,Latin America and Caribbean
+27,Bosnia-Herzegovina,BA,BIH,10120,Europe
+28,Botswana,BW,BWA,10238,Africa / Middle East
+30,Brazil,BR,BRA,10360,Latin America and Caribbean
+31,Brunei,BN,BRN,10177,Asia / Pacific
+32,Bulgaria,BG,BGR,10120,Europe
+33,Burkina Faso,BF,BFA,10238,Africa / Middle East
+34,Burundi,BI,BDI,10238,Africa / Middle East
+35,Cambodia,KH,KHM,10177,Asia / Pacific
+36,Cameroon,CM,CMR,10238,Africa / Middle East
+37,Canada,CA,CAN,10359,United States and Canada
+38,Cape Verde,CV,CPV,10238,Africa / Middle East
+39,Cayman Islands,KY,CYM,10360,Latin America and Caribbean
+40,Central African Republic,CF,CAF,10238,Africa / Middle East
+41,Chad,TD,TCD,10238,Africa / Middle East
+42,Chile,CL,CHL,10360,Latin America and Caribbean
+43,China,CN,CHN,10177,Asia / Pacific
+46,Colombia,CO,COL,10360,Latin America and Caribbean
+47,Comoros,KM,COM,10238,Africa / Middle East
+48,Republic of the Congo,CG,COG,10238,Africa / Middle East
+49,Cook Islands,CK,COK,10177,Asia / Pacific
+50,Costa Rica,CR,CRI,10360,Latin America and Caribbean
+51,Croatia,HR,HRV,10120,Europe
+52,Cuba,CU,CUB,10360,Latin America and Caribbean
+53,Cyprus,CY,CYP,10120,Europe
+54,Czech Republic,CZ,CZE,10120,Europe
+55,Denmark,DK,DNK,10120,Europe
+56,Djibouti,DJ,DJI,10238,Africa / Middle East
+57,Dominica,DM,DMA,10360,Latin America and Caribbean
+58,Dominican Republic,DO,DOM,10360,Latin America and Caribbean
+60,Ecuador,EC,ECU,10360,Latin America and Caribbean
+61,Egypt,EG,EGY,10238,Africa / Middle East
+62,El Salvador,SV,SLV,10360,Latin America and Caribbean
+63,Equatorial Guinea,GQ,GNQ,10238,Africa / Middle East
+64,Estonia,EE,EST,10120,Europe
+65,Ethiopia,ET,ETH,10238,Africa / Middle East
+66,Falkland Islands,FK,FLK,10360,Latin America and Caribbean
+68,Fiji,FJ,FJI,10177,Asia / Pacific
+69,Finland,FI,FIN,10120,Europe
+71,France,FR,FRA,10120,Europe
+72,French Guiana,GF,GUF,10360,Latin America and Caribbean
+73,Gabon,GA,GAB,10238,Africa / Middle East
+74,Gambia,GM,GMB,10238,Africa / Middle East
+75,Georgia,GE,GEO,10177,Asia / Pacific
+76,Germany,DE,DEU,10120,Europe
+77,Ghana,GH,GHA,10238,Africa / Middle East
+78,Gibraltar,GI,GIB,10120,Europe
+79,Greece,GR,GRC,10120,Europe
+80,Greenland,GL,GRL,10120,Europe
+81,Grenada,GD,GRD,10360,Latin America and Caribbean
+82,Guadeloupe,GP,GLP,10360,Latin America and Caribbean
+84,Guatemala,GT,GTM,10360,Latin America and Caribbean
+85,Guinea,GN,GIN,10238,Africa / Middle East
+86,Guinea-Bissau,GW,GNB,10238,Africa / Middle East
+87,Guyana,GY,GUY,10360,Latin America and Caribbean
+88,Haiti,HT,HTI,10360,Latin America and Caribbean
+89,Honduras,HN,HND,10360,Latin America and Caribbean
+90,Hong Kong,HK,HKG,10177,Asia / Pacific
+91,Hungary,HU,HUN,10120,Europe
+92,Iceland,IS,ISL,10120,Europe
+93,India,IN,IND,10177,Asia / Pacific
+94,Indonesia,ID,IDN,10177,Asia / Pacific
+95,Iran,IR,IRN,10177,Asia / Pacific
+96,Iraq,IQ,IRQ,10238,Africa / Middle East
+97,Ireland,IE,IRL,10120,Europe
+98,Israel,IL,ISR,10238,Africa / Middle East
+99,Italy,IT,ITA,10120,Europe
+100,Ivory Coast,CI,CIV,10238,Africa / Middle East
+101,Jamaica,JM,JAM,10360,Latin America and Caribbean
+102,Japan,JP,JPN,10177,Asia / Pacific
+103,Jordan,JO,JOR,10238,Africa / Middle East
+104,Kazakhstan,KZ,KAZ,10177,Asia / Pacific
+105,Kenya,KE,KEN,10238,Africa / Middle East
+106,Kiribati,KI,KIR,10177,Asia / Pacific
+107,Kuwait,KW,KWT,10238,Africa / Middle East
+108,Kyrgyzstan,KG,KGZ,10177,Asia / Pacific
+109,Laos,LA,LAO,10177,Asia / Pacific
+110,Latvia,LV,LVA,10120,Europe
+111,Lebanon,LB,LBN,10238,Africa / Middle East
+112,Lesotho,LS,LSO,10238,Africa / Middle East
+113,Liberia,LR,LBR,10238,Africa / Middle East
+114,Libya,LY,LBY,10238,Africa / Middle East
+115,Liechtenstein,LI,LIE,10120,Europe
+116,Lithuania,LT,LTU,10120,Europe
+117,Luxembourg,LU,LUX,10120,Europe
+118,Macau,MO,MAC,10177,Asia / Pacific
+119,Macedonia,MK,MKD,10120,Europe
+120,Madagascar,MG,MDG,10238,Africa / Middle East
+121,Malawi,MW,MWI,10238,Africa / Middle East
+122,Malaysia,MY,MYS,10177,Asia / Pacific
+123,Maldives,MV,MDV,10177,Asia / Pacific
+124,Mali,ML,MLI,10238,Africa / Middle East
+125,Malta,MT,MLT,10120,Europe
+126,Marshall Islands,MH,MHL,10359,United States and Canada
+127,Martinique,MQ,MTQ,10360,Latin America and Caribbean
+128,Mauritania,MR,MRT,10238,Africa / Middle East
+129,Mauritius,MU,MUS,10238,Africa / Middle East
+131,Mexico,MX,MEX,10360,Latin America and Caribbean
+133,Moldova,MD,MDA,10120,Europe
+134,Monaco,MC,MCO,10120,Europe
+135,Mongolia,MN,MNG,10177,Asia / Pacific
+136,Montserrat,MS,MSR,10360,Latin America and Caribbean
+137,Morocco,MA,MAR,10238,Africa / Middle East
+138,Mozambique,MZ,MOZ,10238,Africa / Middle East
+139,Myanmar,MM,MMR,10177,Asia / Pacific
+140,Namibia,NA,NAM,10238,Africa / Middle East
+141,Nauru,NR,NRU,10177,Asia / Pacific
+142,Nepal,NP,NPL,10177,Asia / Pacific
+143,Netherlands,NL,NLD,10120,Europe
+144,Netherlands Antilles,AN,ANT,10360,Latin America and Caribbean
+146,New Caledonia,NC,NCL,10177,Asia / Pacific
+147,New Zealand,NZ,NZL,10177,Asia / Pacific
+148,Nicaragua,NI,NIC,10360,Latin America and Caribbean
+149,Niger,NE,NER,10238,Africa / Middle East
+150,Nigeria,NG,NGA,10238,Africa / Middle East
+153,North Korea,KP,PRK,10177,Asia / Pacific
+154,Norway,NO,NOR,10120,Europe
+155,Oman,OM,OMN,10238,Africa / Middle East
+156,Pakistan,PK,PAK,10177,Asia / Pacific
+158,Panama,PA,PAN,10360,Latin America and Caribbean
+159,Papua New Guinea,PG,PNG,10177,Asia / Pacific
+160,Paraguay,PY,PRY,10360,Latin America and Caribbean
+161,Peru,PE,PER,10360,Latin America and Caribbean
+162,Philippines,PH,PHL,10177,Asia / Pacific
+164,Poland,PL,POL,10120,Europe
+166,Portugal,PT,PRT,10120,Europe
+168,Qatar,QA,QAT,10238,Africa / Middle East
+169,Reunion,RE,REU,10238,Africa / Middle East
+170,Romania,RO,ROU,10120,Europe
+171,Russia,RU,RUS,10120,Europe
+172,Rwanda,RW,RWA,10238,Africa / Middle East
+174,Saint Lucia,LC,LCA,10360,Latin America and Caribbean
+175,Saint Vincent & Grenadines,VC,VCT,10360,Latin America and Caribbean
+176,Samoa,WS,WSM,10177,Asia / Pacific
+177,San Marino,SM,SMR,10120,Europe
+178,Saudi Arabia,SA,SAU,10238,Africa / Middle East
+179,Senegal,SN,SEN,10238,Africa / Middle East
+180,Seychelles,SC,SYC,10238,Africa / Middle East
+181,Sierra Leone,SL,SLE,10238,Africa / Middle East
+182,Singapore,SG,SGP,10177,Asia / Pacific
+183,Slovakia,SK,SVK,10120,Europe
+184,Slovenia,SI,SVN,10120,Europe
+185,Solomon Islands,SB,SLB,10177,Asia / Pacific
+186,Somalia,SO,SOM,10238,Africa / Middle East
+187,South Africa,ZA,ZAF,10238,Africa / Middle East
+188,South Korea,KR,KOR,10177,Asia / Pacific
+189,Spain,ES,ESP,10120,Europe
+190,Sri Lanka,LK,LKA,10177,Asia / Pacific
+191,Sudan,SD,SDN,10238,Africa / Middle East
+192,Suriname,SR,SUR,10360,Latin America and Caribbean
+193,Swaziland,SZ,SWZ,10238,Africa / Middle East
+194,Sweden,SE,SWE,10120,Europe
+195,Switzerland,CH,CHE,10120,Europe
+196,Syria,SY,SYR,10238,Africa / Middle East
+197,Tajikistan,TJ,TJK,10177,Asia / Pacific
+198,Taiwan,TW,TWN,10177,Asia / Pacific
+199,Tanzania,TZ,TZA,10238,Africa / Middle East
+200,Thailand,TH,THA,10177,Asia / Pacific
+201,Togo,TG,TGO,10238,Africa / Middle East
+203,Tonga,TO,TON,10177,Asia / Pacific
+204,Trinidad & Tobago,TT,TTO,10360,Latin America and Caribbean
+205,Tunisia,TN,TUN,10238,Africa / Middle East
+206,Turkey,TR,TUR,10238,Africa / Middle East
+207,Turkmenistan,TM,TKM,10177,Asia / Pacific
+208,Tuvalu,TV,TUV,10177,Asia / Pacific
+209,Uganda,UG,UGA,10238,Africa / Middle East
+210,Ukraine,UA,UKR,10120,Europe
+211,United Arab Emirates,AE,ARE,10238,Africa / Middle East
+212,United Kingdom,GB,GBR,10120,Europe
+213,United States,US,USA,10359,United States and Canada
+214,Uruguay,UY,URY,10360,Latin America and Caribbean
+215,Uzbekistan,UZ,UZB,10177,Asia / Pacific
+216,Vanuatu,VU,VUT,10177,Asia / Pacific
+217,Vatican City,VA,VAT,10120,Europe
+218,Venezuela,VE,VEN,10360,Latin America and Caribbean
+219,Vietnam,VN,VNM,10177,Asia / Pacific
+220,British Virgin Islands,VG,VGB,10360,Latin America and Caribbean
+224,Yemen,YE,YEM,10238,Africa / Middle East
+225,Yugoslavia,,,10120,Europe
+227,Zambia,ZM,ZMB,10238,Africa / Middle East
+228,Zimbabwe,ZW,ZWE,10238,Africa / Middle East
+230,Channel Islands,,,10120,Europe
+231,Democratic Republic of the Congo,CD,COD,10238,Africa / Middle East
+232,Eritrea,ER,ERI,10238,Africa / Middle East
+233,French Polynesia,PF,PYF,10177,Asia / Pacific
+234,Saint Kitts & Nevis,KN,KNA,10360,Latin America and Caribbean
+235,Turks & Caicos Islands,TC,TCA,10360,Latin America and Caribbean
+236,Serbia,RS,SRB,10120,Europe
+237,Timor-Leste,TL,TLS,10177,Asia / Pacific
+238,Montenegro,ME,MNE,10120,Europe
+239,Isle of Man,IM,IMN,10120,Europe
+240,Palestinian Authority,PS,PSE,10238,Africa / Middle East
+241,Kosovo,,,10120,Europe
+242,Curaçao,CW,CUW,10360,Latin America and Caribbean
+243,Other,,,NA,
+244,Guernsey,GG,GGY,10120,Europe
+245,Jersey,JE,JEY,10120,Europe
